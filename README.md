@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # TALLER DE LENGUAJE I 2021  :computer:
 
@@ -31,7 +31,7 @@ Los resultados de b y c son iguales ya que el puntero es una variable que contie
 El puntero apunta al espacio físico donde está el dato o la variable.
 
 EL puntero es una variable como cualquier otra, la variable puntero contiene una dirección que apunta a otra posición en memoria.
-=======
+
 # tp1---2021-emybar
 tp1---2021-emybar created by GitHub Classroom
->>>>>>> 28bb6c62243d1a6a5820d2c1d7fdb8b2b2b2ba05
+
