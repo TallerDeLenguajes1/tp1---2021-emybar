@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 
 # TALLER DE LENGUAJE I 2021  :computer:
 
-##:pushpin: TP1
+## TP1 :pushpin:
 
 ###### .gitignore 
 
@@ -14,7 +14,7 @@ como diagramas, instaladores de software, etc.
 - Creación y configuración  :pencil2:
 Hay que crear un archivo .gitignore en la raíz de tu proyecto, allí hay q colocar en texto plano
 todas las carpetas que quieres que Git simplemente ignore, así como los archivos.
-El [proyecto gitignore] (https://github.com/github/gitignore) de GitHub contiene muchos ejemplos de archivos .gitignore para diferentes tecnologías y lenguajes de programación para
+El [proyecto gitignore](https://github.com/github/gitignore) de GitHub contiene muchos ejemplos de archivos .gitignore para diferentes tecnologías y lenguajes de programación para
 poder configurar el archivo.
 
 - ¿Cómo usaría la página **https://www.gitignore.io/**?
@@ -31,7 +31,7 @@ Los resultados de b y c son iguales ya que el puntero es una variable que contie
 El puntero apunta al espacio físico donde está el dato o la variable.
 
 EL puntero es una variable como cualquier otra, la variable puntero contiene una dirección que apunta a otra posición en memoria.
-=======
+
 # tp1---2021-emybar
 tp1---2021-emybar created by GitHub Classroom
->>>>>>> 28bb6c62243d1a6a5820d2c1d7fdb8b2b2b2ba05
+
