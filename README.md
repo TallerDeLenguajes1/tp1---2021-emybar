@@ -14,7 +14,7 @@ como diagramas, instaladores de software, etc.
 - Creación y configuración  :pencil2:
 Hay que crear un archivo .gitignore en la raíz de tu proyecto, allí hay q colocar en texto plano
 todas las carpetas que quieres que Git simplemente ignore, así como los archivos.
-El [proyecto gitignore] (https://github.com/github/gitignore) de GitHub contiene muchos ejemplos de archivos .gitignore para diferentes tecnologías y lenguajes de programación para
+El [proyecto gitignore](https://github.com/github/gitignore) de GitHub contiene muchos ejemplos de archivos .gitignore para diferentes tecnologías y lenguajes de programación para
 poder configurar el archivo.
 
 - ¿Cómo usaría la página **https://www.gitignore.io/**?
