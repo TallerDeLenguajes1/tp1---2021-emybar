@@ -2,7 +2,7 @@
 
 # TALLER DE LENGUAJE I 2021  :computer:
 
-##:pushpin: TP1
+## TP1 :pushpin:
 
 ###### .gitignore 
 
